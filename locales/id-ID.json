@@ -28,7 +28,7 @@
     },
     "login": {
         "section1": "Masuk",
-        "section1Description": "Bergabunglah dengan komunitas keuangan kami untuk memposting dan mendapatkan akses ke ratusan artikel, podcast, kursus online, dan banyak lagi.",
+        "section1Description": "Bergabunglah dengan komunitas kesehatan kami untuk berbagi dan mendapatkan akses ke ratusan artikel, fitur, dan riwayat kesehatan yang berkaitan dengan kesehatan.",
         "emailAddress": "Alamat Email",
         "password": "Kata Sandi",
         "forgotPasword": "Lupa Kata Sandi?",
@@ -38,7 +38,7 @@
     },
     "register": {
         "section1": "Registrasi",
-        "section1Description": "Bergabunglah dengan komunitas keuangan kami untuk memposting dan mendapatkan akses ke ratusan artikel, podcast, kursus online, dan banyak lagi.",
+        "section1Description": "Bergabunglah dengan komunitas kesehatan kami untuk berbagi dan mendapatkan akses ke ratusan artikel, fitur, dan riwayat kesehatan yang berkaitan dengan kesehatan.",
         "emailAddress": "Alamat Email",
         "password": "Kata Sandi",
         "confirmPassword": "Konfirmasi Kata Sandi",

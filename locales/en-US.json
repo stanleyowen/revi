@@ -27,7 +27,7 @@
     },
     "login": {
         "section1": "Sign In",
-        "section1Description": "Join our community of finance to post and get access to hundreds of articles, podcasts, online courses, and more.",
+        "section1Description": "Join our health community to post and gain access to hundreds of articles, features, and health histories related to health.",
         "emailAddress": "Email Address",
         "password": "Password",
         "forgotPasword": "Forgot Password?",
@@ -37,7 +37,7 @@
     },
     "register": {
         "section1": "Create an account",
-        "section1Description": "Join our community of finance to post and get access to hundreds of articles, podcasts, online courses, and more.",
+        "section1Description": "Join our health community to post and gain access to hundreds of articles, features, and health histories related to health.",
         "emailAddress": "Email Address",
         "password": "Password",
         "confirmPassword": "Confirm Password",
@@ -56,7 +56,7 @@
         "writeArticle": "Write a Post"
     },
     "financialClass": {
-        "description": "Financial Class is an undergoing experimental feature and is currently unavailable right now. This feature is being tested and will be rolled out as soon as possible."
+        "description": "This feature is undergoing experimental feature and is currently unavailable right now. This feature is being tested and will be rolled out as soon as possible."
     },
     "writePost": {
         "title": "Title",
