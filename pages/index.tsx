@@ -51,7 +51,7 @@ const Home: NextPage = () => {
                             width={600}
                             height={400}
                             alt="FInancial Education"
-                            src="https://private-user-images.githubusercontent.com/69080584/302206983-ff1d5b16-57f1-408b-8762-ed2c3fd5ce12.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxMTg1NTgsIm5iZiI6MTcwNzExODI1OCwicGF0aCI6Ii82OTA4MDU4NC8zMDIyMDY5ODMtZmYxZDViMTYtNTdmMS00MDhiLTg3NjItZWQyYzNmZDVjZTEyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA1VDA3MzA1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkMjBhYzA2ODczY2NkMTY5M2JjNThhYjQ4YzJjMWRhODk1NThmMzVmZTM1ODk2YmY3NTFmOTY4MjY5NWVlMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.SL9pGiu6hpdhnIg8-eP-UYym6BvB5-kzPd5uO0yzdrE"
+                            src="/o.png"
                         />
                     </div>
                 </div>
