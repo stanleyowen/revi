@@ -2,7 +2,7 @@
 const nextConfig = {
     reactStrictMode: true,
     images: {
-        domains: ["user-images.githubusercontent.com"],
+        domains: ["private-user-images.githubusercontent.com"],
     },
     i18n: {
         locales: ["en-US", "id-ID"],

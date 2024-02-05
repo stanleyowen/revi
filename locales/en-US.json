@@ -1,30 +1,27 @@
 {
     "home": {
-        "section1Heading": "One step ahead to your financial dream",
-        "section1Description": "Learning financial education with us to make your money.",
+        "section1Heading": "One step ahead to your healthy life",
+        "section1Description": "Innovative Smart Robot with a focus on the health sector.",
         "section1Button": "Get Started",
         "section2Heading1": "Educating to elevate money making",
         "section2Description1": "We come to help and provide a better education about money to build the relevant mindset of money perspective and money management.",
-        "section2Heading2": "Offering job opportunity only for you",
-        "section2Description2": "We come to help and provide a better education about money to build the relevant mindset of money perspective and money management.",
-        "section3Features": "Features",
         "section3Features1": "Up to Date",
-        "section3Description1": "Financial news always keep updated",
-        "section3Features2": "Exclusive",
-        "section3Description2": "Exclusively educate yourself with financial knowledge",
-        "section3Features3": "All Ages",
-        "section3Description3": "Relatable to all walk of people, whether you're a student, an umployed, or even an elderly.",
-        "section4": "Start creating your Edufin Account Today",
-        "section4Description": "Join our community of finance to post and get access to hundreds of articles, podcasts, online courses, and more.",
-        "section4Button": "Join Edufin"
+        "section3Features2": "Articles",
+        "section3Features3": "Detail Arrangement",
+        "section3Features4": "Medical Recommendations",
+        "section3Features5": "Emergency Health",
+        "section3Features6": "Application",
+        "section4": "Join Revi Today",
+        "section4Description": "Join our health community to post and gain access to hundreds of articles, features, and health histories related to health.",
+        "section4Button": "Join Revi"
     },
     "footer": {
         "section1": "Languages",
         "section1Lang1": "English",
         "section1Lang2": "Bahasa Indonesia",
         "section2": "Features",
-        "section2Feature1": "Blogs",
-        "section2Feature2": "Job Vacancy",
+        "section2Feature1": "Articles",
+        "section2Feature2": "Medical Recommendations",
         "section3": "Follow Us",
         "section3Feature1": "Discord"
     },
@@ -51,13 +48,12 @@
     "navbar": {
         "home": "Home",
         "articles": "Articles",
-        "jobs": "Jobs",
-        "financialClass": "Financial Class",
+        "healthStatus": "Health history",
+        "makeAppointment": "Make an Appointment",
         "signIn": "Sign In",
         "signUp": "Sign Up",
         "signOut": "Sign Out",
-        "writeArticle": "Write a Post",
-        "postJob": "Post a Job"
+        "writeArticle": "Write a Post"
     },
     "financialClass": {
         "description": "Financial Class is an undergoing experimental feature and is currently unavailable right now. This feature is being tested and will be rolled out as soon as possible."
