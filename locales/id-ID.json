@@ -1,0 +1,76 @@
+{
+    "home": {
+        "section1Heading": "Selangkah menuju mimpi finansial anda",
+        "section1Description": "Mempelajari edukasi finansial dengan kami untuk membantu anda mendapatkan uang.",
+        "section1Button": "Mulai",
+        "section2Heading1": "Mempelajari peningkatan pemasukan anda",
+        "section2Description1": "Kami disini untuk membantu dan menyediakan kualitas pendidik yang lebih baik demi membangun mindset tentang uang anda menjadi lebih matang.",
+        "section2Heading2": "Penawaran kerja hanya untuk kamu",
+        "section2Description2": "Kami juga membantu anda untuk mendapatkan informasi lowongan pekerjaan dari perusahaan-perusahaan.",
+        "section3Features": "Fitur",
+        "section3Features1": "Up to Date",
+        "section3Description1": "Berita finansial yang akan terus kami update",
+        "section3Features2": "Ekslusif buat anda",
+        "section3Description2": "Edukasikan diri anda mengenai pembelajaran finansial secara ekslusif.",
+        "section3Features3": "Semua usia",
+        "section3Description3": "Dapat digunakan untuk semua kategori usia, mulai dari anak-anak hingga dewasa.",
+        "section4": "Buat akun Edufin anda sekarang",
+        "section4Description": "Ikutilah komunitas daripada finansial kami untuk memposting dan menggapai akses ke ratusan artikel, podcast, dsb.",
+        "section4Button": "Bergabung dengan Edufin"
+    },
+    "footer": {
+        "section1": "Bahasa",
+        "section1Lang1": "English",
+        "section1Lang2": "Bahasa Indonesia",
+        "section2": "Fitur",
+        "section2Feature1": "Blog",
+        "section2Feature2": "Lowongan",
+        "section3": "Ikuti kami",
+        "section3Feature1": "Discord"
+    },
+    "login": {
+        "section1": "Masuk",
+        "section1Description": "Bergabunglah dengan komunitas keuangan kami untuk memposting dan mendapatkan akses ke ratusan artikel, podcast, kursus online, dan banyak lagi.",
+        "emailAddress": "Alamat Email",
+        "password": "Kata Sandi",
+        "forgotPasword": "Lupa Kata Sandi?",
+        "createAccount1": "Masih belum mempunya akun? ",
+        "createAccount2": "Bergabung sekarang",
+        "section2Button": "Masuk"
+    },
+    "register": {
+        "section1": "Registrasi",
+        "section1Description": "Bergabunglah dengan komunitas keuangan kami untuk memposting dan mendapatkan akses ke ratusan artikel, podcast, kursus online, dan banyak lagi.",
+        "emailAddress": "Alamat Email",
+        "password": "Kata Sandi",
+        "confirmPassword": "Konfirmasi Kata Sandi",
+        "section2Button": "Daftar",
+        "login1": "Sudah mempunyai akun? ",
+        "login2": "Masuk sekarang."
+    },
+    "navbar": {
+        "home": "Beranda",
+        "articles": "Artikel",
+        "jobs": "Lowongan",
+        "financialClass": "Kelas Finansial",
+        "signIn": "Masuk",
+        "signUp": "Daftar",
+        "signOut": "Keluar",
+        "writeArticle": "Tulis Artikel",
+        "postJob": "Pasang Lowongan"
+    },
+    "financialClass": {
+        "description": "Kelas finansial adalah fitur yang sedang berada dalam tahap eksperimental yang saat ini tidak tersedia untuk publik. Fitur ini sedang dalam pengujian dan akan diluncurkan segera mungkin."
+    },
+    "writePost": {
+        "title": "Judul",
+        "cancel": "Batal",
+        "post": "Unggah"
+    },
+    "postJob": {
+        "title": "Lowongan Pekerjaan",
+        "company": "Nama Perusahaan",
+        "cancel": "Batal",
+        "post": "Unggah"
+    }
+}

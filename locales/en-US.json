@@ -1,0 +1,76 @@
+{
+    "home": {
+        "section1Heading": "One step ahead to your financial dream",
+        "section1Description": "Learning financial education with us to make your money.",
+        "section1Button": "Get Started",
+        "section2Heading1": "Educating to elevate money making",
+        "section2Description1": "We come to help and provide a better education about money to build the relevant mindset of money perspective and money management.",
+        "section2Heading2": "Offering job opportunity only for you",
+        "section2Description2": "We come to help and provide a better education about money to build the relevant mindset of money perspective and money management.",
+        "section3Features": "Features",
+        "section3Features1": "Up to Date",
+        "section3Description1": "Financial news always keep updated",
+        "section3Features2": "Exclusive",
+        "section3Description2": "Exclusively educate yourself with financial knowledge",
+        "section3Features3": "All Ages",
+        "section3Description3": "Relatable to all walk of people, whether you're a student, an umployed, or even an elderly.",
+        "section4": "Start creating your Edufin Account Today",
+        "section4Description": "Join our community of finance to post and get access to hundreds of articles, podcasts, online courses, and more.",
+        "section4Button": "Join Edufin"
+    },
+    "footer": {
+        "section1": "Languages",
+        "section1Lang1": "English",
+        "section1Lang2": "Bahasa Indonesia",
+        "section2": "Features",
+        "section2Feature1": "Blogs",
+        "section2Feature2": "Job Vacancy",
+        "section3": "Follow Us",
+        "section3Feature1": "Discord"
+    },
+    "login": {
+        "section1": "Sign In",
+        "section1Description": "Join our community of finance to post and get access to hundreds of articles, podcasts, online courses, and more.",
+        "emailAddress": "Email Address",
+        "password": "Password",
+        "forgotPasword": "Forgot Password?",
+        "createAccount1": "Not resgistered? ",
+        "createAccount2": "Create an account",
+        "section2Button": "Sign In"
+    },
+    "register": {
+        "section1": "Create an account",
+        "section1Description": "Join our community of finance to post and get access to hundreds of articles, podcasts, online courses, and more.",
+        "emailAddress": "Email Address",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "section2Button": "Sign Up",
+        "login1": "Already have an account? ",
+        "login2": "Login here."
+    },
+    "navbar": {
+        "home": "Home",
+        "articles": "Articles",
+        "jobs": "Jobs",
+        "financialClass": "Financial Class",
+        "signIn": "Sign In",
+        "signUp": "Sign Up",
+        "signOut": "Sign Out",
+        "writeArticle": "Write a Post",
+        "postJob": "Post a Job"
+    },
+    "financialClass": {
+        "description": "Financial Class is an undergoing experimental feature and is currently unavailable right now. This feature is being tested and will be rolled out as soon as possible."
+    },
+    "writePost": {
+        "title": "Title",
+        "cancel": "Cancel",
+        "post": "Post"
+    },
+    "postJob": {
+        "title": "Job Title",
+        "company": "Company",
+        "cancel": "Cancel",
+        "post": "Post"
+    }
+}
